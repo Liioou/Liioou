@@ -12,7 +12,7 @@
 - <b>Deploying Websites using AWS services</b>
 
   - [Deploy a static Website with S3](https://github.com/Liioou/Deploy-a-static-Website-with-S3/tree/main/static-web-with-s3)
-  - Deploy a static website using Cloudfront
+  - [Deploy a static website using Cloudfront](https://github.com/Liioou/DeployastaticwebsiteusingCloudfront.git)
   - [Deploy a dynamic website with Wordpress](https://github.com/Liioou/--Deploy-a-dynamic-website-with-Wordpress/blob/main/README.md)
  
 
