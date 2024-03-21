@@ -15,6 +15,9 @@
   - [Deploy a static website using Cloudfront](https://github.com/Liioou/DeployastaticwebsiteusingCloudfront.git)
   - [Deploy a dynamic website with Wordpress](https://github.com/Liioou/--Deploy-a-dynamic-website-with-Wordpress/blob/main/README.md)
  
+- <b>Devops with AWS </b>
+  - [Deploy a Cloudformation template with Aws Codepipeline](https://github.com/Liioou/Deploying-a-Cloudformation-Template-using-codepipeline-in-the-us-east-1-Region/blob/main/README.md)
+ 
 
 
 
